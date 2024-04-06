@@ -289,6 +289,7 @@
 - [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) - An open-source language model that can chat and generate images. Created by EleutherAI.
 - [BLOOM](https://huggingface.co/bigscience/bloom) - by BigScience, BLOOM is an autoregressive Large Language Model (LLM), trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources. As such, it is able to output coherent text in 46 languages and 13 programming languages that is hardly distinguishable from text written by humans. BLOOM can also be instructed to perform text tasks it hasn't been explicitly trained for, by casting them as text generation tasks.
 - [OPT]((https://arxiv.org/pdf/2205.01068)) - by Meta, The OPT model was proposed in Open Pre-trained Transformer Language Models by Meta AI. OPT is a series of open-sourced large causal language models which perform similar in performance to GPT3.
+- [Tune AI](https://chat.tune.app/) - AI chat app powered by open source models
 
 ### Research report
 
